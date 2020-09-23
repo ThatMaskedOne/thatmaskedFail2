@@ -1,0 +1,10 @@
+h1{color: #FFFFFF; font-family: Impact; font-size: 50px}
+	h1{text-align: center;}
+	h1{margin-bottom: 5pt}
+body{background-color: #151333}
+	body{text-align: center;}
+p{color: #FFFFFF; font-family: Helvetica; font-size: 20px;}
+ol{color: #FF171B;font-family: helvetica; font-size: 20px;}
+a{color: #D9D4FF; font-family: Helvetica; font-size: 20px; text-decoration: none;}
+a:hover{color: #FF7017;}
+
